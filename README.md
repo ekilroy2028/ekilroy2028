@@ -36,5 +36,5 @@ Right now, I’m super excited to be honing my coding skills, especially in web 
 </picture>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Code Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
