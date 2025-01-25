@@ -25,9 +25,6 @@ Right now, I’m super excited to be honing my coding skills, especially in web 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ekilroy2028&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ekilroy2028&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
@@ -37,3 +34,7 @@ Right now, I’m super excited to be honing my coding skills, especially in web 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
 </picture>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
