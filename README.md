@@ -8,11 +8,8 @@ Right now, I’m super excited to be honing my coding skills, especially in web 
 # ⚡️ Quick Facts:
 🏫 I’m currently working on get a GIT degree at ASU<br>🌱 I’m currently learning coding with HTML3<br>☘️ I’m a native of Boston, and I’m also an Irish redhead lass.<br>🧩 I love diving into puzzles like Sudoku and Brain Teasers every now and then—they're so much fun! But..... I have to admit that crosswords aren't really my thing. YUK!<br>🪐Every now and then, take a moment to gaze up at the stars in the sky.<br>📗 Fun fact: There are more than 700 different programming languages out there!
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-kilroy-1306b2295) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ekilroy2028) 
-
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
@@ -34,7 +31,6 @@ Right now, I’m super excited to be honing my coding skills, especially in web 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
 </picture>
-
 
 ### ✍️ Random Code Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
