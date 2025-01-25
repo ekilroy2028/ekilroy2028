@@ -31,11 +31,7 @@ Right now, I’m super excited to be honing my coding skills, especially in web 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ekilroy2028&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ekilroy2028&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>Snake eating my contributions</p>
+### 🐍 Eating my Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
