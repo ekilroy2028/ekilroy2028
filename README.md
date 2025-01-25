@@ -28,7 +28,7 @@ Right now, I’m super excited to be honing my coding skills, especially in web 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ekilroy2028&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
-### 🐍 Python Eating my Recent Contributions
+### 🐍 A Python Eating my Recent Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
