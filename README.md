@@ -7,7 +7,7 @@ Hey everyone! Welcome to my vibrant GitHub page! I’m Elizabeth Kilroy, your en
 Right now, I’m super excited to be honing my coding skills, especially in web development. On this GitHub page, you’ll discover all the thrilling projects I’m working on and learning about. I absolutely love connecting with others, so don’t hesitate to drop your questions or feedback—I’d love to hear from you! Let’s dive in and enjoy this incredible journey together! 🎉 
 
 # ⚡️ Quick Facts:
-🔭 I’m currently working on get a GIT degree at ASU<br>🌱 I’m currently learning coding with HTML3<br>☘️ ’m a native of Boston, and I’m also an Irish redhead.<br>🧩 I love diving into puzzles like Sudoku and Brain Teasers every now and then—they're so much fun! But..... I have to admit that crosswords aren't really my thing. YUK!<br>🪐Every now and then, take a moment to gaze up at the stars in the sky.<br>📕 Fun fact: There are more than 700 different programming languages out there!
+🔭 I’m currently working on get a GIT degree at ASU<br>🌱 I’m currently learning coding with HTML3<br>☘️ ’m a native of Boston, and I’m also an Irish redhead lass.<br>🧩 I love diving into puzzles like Sudoku and Brain Teasers every now and then—they're so much fun! But..... I have to admit that crosswords aren't really my thing. YUK!<br>🪐Every now and then, take a moment to gaze up at the stars in the sky.<br>📕 Fun fact: There are more than 700 different programming languages out there!
 
 
 
