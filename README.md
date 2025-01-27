@@ -1,4 +1,12 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/d91fe157-5614-4cfe-91d4-36c76d6197a3)
+
+![hrdbot](https://github.com/user-attachments/assets/61418b4a-3392-42bd-8017-9bae377a1ef4)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
+</picture>
+
 
 # 😎 About Me:
 Hey everyone! Welcome to my vibrant GitHub page! I’m Elizabeth Kilroy, your enthusiastic guide on this creative journey. 🌟 I’m diving deep into the world of Graphic Information Technology at Arizona State University, and I can’t wait to unleash my passion for graphic design upon graduation! Whether it’s joining a dynamic team or embarking on my freelancing adventure, I’m all in! 
@@ -24,13 +32,6 @@ Right now, I’m super excited to be honing my coding skills, especially in web 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ekilroy2028&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
-
-### 🐍 A Python Eating my Recent Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ekilroy2028/ekilroy2028/output/github-snake.svg" />
-</picture>
 
 ### ✍️ Random Code Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
